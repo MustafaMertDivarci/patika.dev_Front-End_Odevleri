@@ -1,0 +1,46 @@
+.center{
+    text-align: center;
+}
+
+.bggrey{
+    background: #F0F0F0;
+}
+
+.search_bar{
+    margin:0 auto;
+    border: 0;
+    width: 90%;
+}
+
+.squares{
+    width: 37%;
+   
+}
+table{
+    font-size: small;
+    width: 90%;
+    margin:0 auto;
+}
+
+[id]{
+    text-align: center;
+}
+
+.mgright{
+    margin-right: 3px;
+}
+
+
+td#squareOne{
+    background-color: #7EE5DA;
+    width: 37%;
+    font-size:medium;
+}
+
+td#squareTwo{
+    background-color: #70CCC2;
+}
+
+td#squareThree{
+    background-color: #62B3AA;
+}
